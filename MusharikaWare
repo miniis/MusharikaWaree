@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("UrlHere",true))();-- skidded by mini
+-- skidded by mini
 
 -- Instances:
 
